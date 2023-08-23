@@ -8,16 +8,3 @@
 meetpaladiya44/meetpaladiya44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# meet
-
-## paladiya
-
-### hello king !!
-
-- name 
-<!-- for making list like {- name} -->
-
-****_NOTE:_** this is note**
-[github](https://github.com/meetpaladiya44)
-
-This is command: `git status`
